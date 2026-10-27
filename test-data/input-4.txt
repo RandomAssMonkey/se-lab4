@@ -1,0 +1,3 @@
+# R3b: primary next in line but empty -> secondary fires
+GT4500,0,0,10,0
+TORPEDO,SINGLE  # primary empty -> secondary

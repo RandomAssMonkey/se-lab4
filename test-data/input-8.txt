@@ -1,0 +1,4 @@
+# R6: ALL fires both stores (1 torpedo each)
+GT4500,1,0,1,0
+TORPEDO,ALL  # both fire
+TORPEDO,ALL  # both empty now
